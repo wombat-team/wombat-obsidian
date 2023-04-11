@@ -35,9 +35,10 @@ Wombat - це система, яка допомагає робітничим к�
 > Ресурси на github та/чи obsidian. 
 > УВАГА: Ці ресурси мали б бути в вашому репозитарії, а тут лише посилання на них.
 
-[Wombat Канви Ціннісної пропозиції](https://github.com/smykandriy/wombat-obsidian/blob/feature-wombat/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Wombat/Wombat%20%D0%9A%D0%B0%D0%BD%D0%B2%D0%B8%20%D0%A6%D1%96%D0%BD%D0%BD%D1%96%D1%81%D0%BD%D0%BE%D1%97%20%D0%BF%D1%80%D0%BE%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D1%96%D1%97.md)
-[Звіт роботи під час першого семестру](https://github.com/smykandriy/wombat-obsidian/blob/feature-wombat/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Wombat/wombat_wombase_report.pdf)
+[Wombat Канви Ціннісної пропозиції](https://github.com/wombat-team/wombat-obsidian/blob/feature-wombat/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Wombat/Wombat%20%D0%9A%D0%B0%D0%BD%D0%B2%D0%B8%20%D0%A6%D1%96%D0%BD%D0%BD%D1%96%D1%81%D0%BD%D0%BE%D1%97%20%D0%BF%D1%80%D0%BE%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D1%96%D1%97.md)
+[Звіт роботи під час першого семестру](https://github.com/wombat-team/wombat-obsidian/blob/feature-wombat/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Wombat/wombat_wombase_report.pdf)
 
 [github repo for frontend](https://github.com/smykandriy/wombat-frontend)
 [github repo for backend](https://github.com/smykandriy/wombat-backend)
-[github repo for obsidian](https://github.com/smykandriy/wombat-obsidian)
+[main github repo](https://github.com/wombat-team/wombase)
+[github repo for obsidian](https://github.com/wombat-team/wombat-obsidian)
